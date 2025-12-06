@@ -150,7 +150,3 @@ From the project directory (where the built executable resides in `Debug`):
 ## Raster Font Tip
 
 Tip: For best visual results in the terminal, set the console font to "Raster Fonts" 8x12.
-
-## License
-
-See the `LICENSE` file in this repository.
