@@ -18,6 +18,8 @@ Converts an image to ASCII by mapping pixel brightness to characters that best r
 
 </div>
 
+---
+
 ```
 Steps:
     1. Open PowerShell as administrator
