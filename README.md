@@ -4,6 +4,10 @@ Video: https://www.facebook.com/share/v/17XgFxb2Ch/
 
 Image to ASCII library
 
+---
+
+<div align="center">
+
 ![](Impress_your_crush_By_Cpp_ASCII_art/Capture.PNG)
 
 Converts an image to ASCII by mapping pixel brightness to characters that best resemble the local shape.
@@ -11,6 +15,8 @@ Converts an image to ASCII by mapping pixel brightness to characters that best r
 ## For best results, use RASTER FONT 8x12
 
 ![](Impress_your_crush_By_Cpp_ASCII_art/font-setup.png)
+
+</div>
 
 ```
 Steps:
